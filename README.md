@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jjjoh
-- 👀 I’m interested in writing, cinema and programming.
-- 🌱 I’m currently learning html, css and javascript.
+- 👀 I’m interested in writing, cinema, programming, devops, adminsys, cloud...
+- 🌱 and green IT
 
 
 <!---
